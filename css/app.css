@@ -1,0 +1,14 @@
+.container {
+    background-image: url(../images/bg.jpg);
+    height: 960px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 3px;
+    overflow: hidden;
+}
+header {
+    width: 100%;
+    text-align: center;
+    background-color: #565A69;
+    color: #FFA500;
+}
