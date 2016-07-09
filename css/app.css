@@ -8,6 +8,7 @@
     color: #fff;
     font-size: 20px;
     text-align: center;
+    background-color: #524B58;
 }
 header {
     width: 100%;
@@ -15,6 +16,9 @@ header {
     background-color: #565A69;
     color: #FFA500;
 }
-img category {
-    margin-top: 1%;
+.follow {
+    background-color: #333;
+    color: #FFA500;
+    font-size: 20px;
+    border-radius: 111px;
 }
