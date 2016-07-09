@@ -3,12 +3,18 @@
     height: 960px;
     background-repeat: no-repeat;
     background-size: cover;
-    opacity: 3px;
+    opacity: 0.8;
     overflow: hidden;
+    color: #fff;
+    font-size: 20px;
+    text-align: center;
 }
 header {
     width: 100%;
     text-align: center;
     background-color: #565A69;
     color: #FFA500;
+}
+img category {
+    margin-top: 1%;
 }
