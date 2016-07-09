@@ -23,8 +23,11 @@ header {
     border-radius: 111px;
 }
 .footer div {
-    height: 200px;
+    height: 140px;
     background-color: #524B58;
     margin-top: 9%;
-    padding-top: 5%
+    padding-top: 5%;
+}
+.padded {
+    margin-left: 0.001rem;
 }
