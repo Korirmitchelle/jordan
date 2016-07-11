@@ -1,6 +1,5 @@
 .container {
     background-image: url(../images/bg.jpg);
-    height: 960px;
     background-repeat: no-repeat;
     background-size: cover;
     opacity: 0.7;
